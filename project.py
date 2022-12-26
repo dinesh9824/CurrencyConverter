@@ -1,7 +1,6 @@
 import datetime
 class welcome:
 
-    @staticmethod
     def greeting():
         print('''*****WELCOME TO CURRENCY CONVERTER*****\n''')
         name = input('Please enter your name here:-\n')
